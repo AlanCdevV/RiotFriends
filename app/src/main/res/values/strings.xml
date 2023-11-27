@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecyclerViewFloatingContext</string>
+    <string-array name="image_name">
+        <item>Cyclo743</item>
+        <item>|zoriath|</item>
+        <item>motitaloca</item>
+        <item>By Shoco</item>
+        <item>By Hany</item>
+        <item>Crow Opalo</item>
+        <item>Hululu</item>
+        <item>Mazapan de fresa</item>
+        <item>Alexooz</item>
+    </string-array>
+
+</resources>
